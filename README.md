@@ -30,7 +30,7 @@ Você pode gerar esse arquivo seguindo o guia oficial da [Google Cloud](https://
 ## Organização dos dados no Google Sheets:
 
 - **Aba `Feedbacks`**: contém os dados tratados e atualizados via script Python.
-- **Aba `Resumo por analista`**: exibe indicadores de tempo médio de resposta (em dias) para cada analista. 
+- **Aba `Resumo por Analista`**: exibe indicadores de tempo médio de resposta (em dias) para cada analista. 
 Essa aba permite identificar gargalos ou destaques individuais na operação, auxiliando a equipe de CS ou Operações a tomar decisões mais estratégicas.
 - **Aba `Gráficos`**: contém gráficos automáticos com os principais indicadores do projeto.
 
