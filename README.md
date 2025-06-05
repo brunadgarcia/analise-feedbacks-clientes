@@ -35,11 +35,11 @@ Você pode gerar esse arquivo seguindo o guia oficial da [Google Cloud](https://
 
 ### Exemplos visuais:
 
-![Dashboard com feedbacks](imgs/dashboard-feedbacks.png)
-
-![Tempo médio de resposta dos analistas](imgs/resumo-analista.png)
-
-![Gráficos gerados automaticamente](imgs/graficos.png)
+<p align="center">
+  <img src="imgs/dashboard-feedbacks.png" alt="Dashboard com feedbacks" style="max-width:600px; max-height:400px;" /><br><br>
+  <img src="imgs/resumo-analista.png" alt="Tempo médio de resposta dos analistas" style="max-width:600px; max-height:400px;" /><br><br>
+  <img src="imgs/graficos.png" alt="Gráficos gerados automaticamente" style="max-width:600px; max-height:400px;" />
+</p>
 
 ## Como executar:
 
