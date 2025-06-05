@@ -54,5 +54,5 @@ pip install -r requirements.txt
 
 4. Execute o script principal:
 ```bash
-python main.py
+python script.py
 ```
