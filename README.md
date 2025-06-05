@@ -32,6 +32,12 @@ Você pode gerar esse arquivo seguindo o guia oficial da [Google Cloud](https://
 - **Aba `Feedbacks`**: contém os dados tratados e atualizados via script Python.
 - **Aba `Resumo`**: contém gráficos automáticos com os principais indicadores do projeto.
 
+### Exemplos visuais:
+
+![Dashboard com feedbacks](imgs/dashboard-feedbacks.png)
+
+![Gráficos gerados automaticamente](imgs/graficos.png)
+
 ## ▶ Como executar:
 
 1. Clone o repositório:  
