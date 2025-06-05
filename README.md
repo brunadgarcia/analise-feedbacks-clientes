@@ -37,6 +37,8 @@ Você pode gerar esse arquivo seguindo o guia oficial da [Google Cloud](https://
 
 ![Dashboard com feedbacks](imgs/dashboard-feedbacks.png)
 
+![Tempo médio de resposta dos analistas](imgs/resumo-analista.png)
+
 ![Gráficos gerados automaticamente](imgs/graficos.png)
 
 ## Como executar:
