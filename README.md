@@ -6,10 +6,10 @@ Este projeto automatiza o processo de coleta, tratamento e visualização de fee
 
 - Consumo de dados via API pública (JSON).
 - Processamento e limpeza dos dados com Python.
-- Cálculo de indicadores como tempo médio de resposta, total de feedbacks por analista, status de retorno, entre outros.
+- Cálculo de indicadores como tempo médio de resposta, quantidade de resolução por analista, distribuição por categoria (positivo, negativo e neutro), entre outros.
 - Exportação dos dados tratados para uma aba específica do Google Sheets (`Feedbacks`).
-- Geração de gráficos automáticos na aba `Resumo`, com base em intervalos nomeados.
-- Estrutura pronta para integração com agendamentos e alertas.
+- Geração de gráficos automáticos na aba (`Gráficos`), configurados para atualizar-se automaticamente com base em intervalos nomeados que refletem as informações mais recentes. Dessa forma, os gráficos acompanham as atualizações dos dados sem necessidade de intervenção manual.
+- Integração automatizada com Google Sheets, com estrutura preparada para futura adição de agendamentos e alertas, facilitando expansão do projeto.
 
 ## Tecnologias utilizadas:
 
