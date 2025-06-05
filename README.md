@@ -39,7 +39,7 @@ Você pode gerar esse arquivo seguindo o guia oficial da [Google Cloud](https://
 
 ![Gráficos gerados automaticamente](imgs/graficos.png)
 
-## ▶ Como executar:
+## Como executar:
 
 1. Clone o repositório:  
 ```bash
