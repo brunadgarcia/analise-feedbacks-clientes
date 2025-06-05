@@ -52,6 +52,8 @@ pip install -r requirements.txt
 ```
 3. Coloque seu arquivo `credenciais-google.json` na raiz do projeto.
 
+Importante: Para executar o projeto, você deve criar um arquivo credenciais-google.json na raiz do projeto com as credenciais da sua conta de serviço do Google Cloud. Esse arquivo não está incluído no repositório por questões de segurança.
+
 4. Execute o script principal:
 ```bash
 python script.py
